@@ -14,5 +14,9 @@ Option
 - ...
 Voir la documentation Angular : https://angular.dev
 
-#Création d'un composant
-ng g c Nom du composant [option]
+## Création d'un composant
+ng g c NomDuComposant [option]
+
+## Création d'un module
+ng g m NomDuModule [option]
+

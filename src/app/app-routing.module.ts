@@ -3,6 +3,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { Demo01Component } from './demos/demo01/demo01.component';
 import { Demo02Component } from './demos/demo02/demo02.component';
+import { Demo03Component } from './demos/demo03/demo03.component';
 
 const routes: Routes = [
   {

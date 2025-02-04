@@ -20,3 +20,9 @@ ng g c NomDuComposant [option]
 ## Création d'un module
 ng g m NomDuModule [option]
 
+## Création d'un Module
+ng g m NomDuModule [option]
+
+Option
+- --routing: Ajout de routing
+

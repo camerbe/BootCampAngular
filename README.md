@@ -26,3 +26,7 @@ ng g m NomDuModule [option]
 Option
 - --routing: Ajout de routing
 
+## Création d'un Module partagé
+Regroupe tous les modules qui servent dans toute l'application
+
+ng g m NomDuModule [option]
